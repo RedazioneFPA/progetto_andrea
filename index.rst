@@ -12,6 +12,9 @@ in collaborazione con:
 |REPLACE1|
 
 
+|REPLACE2|
+
+
 .. toctree:: 
     :maxdepth: 3
     :caption: Indice 
@@ -28,5 +31,8 @@ in collaborazione con:
 
 
 .. |REPLACE1| raw:: html
+
+    <img width="100" src="https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/FPA.jpg" />
+.. |REPLACE2| raw:: html
 
     <img width="100" src="https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/FPA.jpg" />
