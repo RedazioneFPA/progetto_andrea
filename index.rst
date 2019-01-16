@@ -29,4 +29,4 @@ in collaborazione con:
 
 .. |REPLACE1| raw:: html
 
-    <img width: 100 src="https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/FPA.jpg" />
+    <img width: 50 src="https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/FPA.jpg" />
