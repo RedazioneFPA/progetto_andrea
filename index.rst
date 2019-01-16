@@ -4,6 +4,13 @@
 PROGETTO ANDREA
 ###############
 
+[descrizione]
+
+in collaborazione con:
+
+
+|REPLACE1|
+
 
 .. toctree:: 
     :maxdepth: 3
@@ -18,3 +25,8 @@ PROGETTO ANDREA
 
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <img src=”https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/logo.jpg” />
